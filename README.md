@@ -3,8 +3,8 @@
 
 ## About Me 🙂
 - *A passionate **web developer** who writes interesting **bugs***
-- *Specializes in **front-end development***
-- ***Open-source** enthusiast*
+- *Specializes in **full-stack development***
+
 - *Trying and **exploring** new stuff*
 <!--#### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.-->
 
@@ -71,13 +71,13 @@ ___
   <a href="https://twitter.com/haldar_anup1">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/haldaranup">
+  <a href="https://www.linkedin.com/in/adarsh-raj-ba61821b9/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://medium.com/@haldaranup">              
     <img src="https://gist.githubusercontent.com/haldaranup/d3e2a54e5909a37cb7cf212bf83b3e6c/raw/63631d4cfd5d53de4513ac774f0008aa235c6aba/medium.png" height="48" width="48" />
   </a>
-  <a href="https://www.instagram.com/haldar_anup1">
+  <a href="https://www.instagram.com/_adarshh.raj_/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
@@ -130,18 +130,7 @@ ___
 <p/> -->
 
 
-<!-- **haldaranup/haldaranup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 <!--
 **adarshRaj7/adarshRaj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
