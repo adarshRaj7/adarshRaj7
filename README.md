@@ -68,15 +68,15 @@
 ___
 <h2 align="center">Let's Connect<img src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"> </h2>
  <p align="center">
-  <a href="https://twitter.com/haldar_anup1">
+<!--   <a href="https://twitter.com/haldar_anup1">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/adarsh-raj-ba61821b9/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://medium.com/@haldaranup">              
+<!--   <a href="https://medium.com/@haldaranup">              
     <img src="https://gist.githubusercontent.com/haldaranup/d3e2a54e5909a37cb7cf212bf83b3e6c/raw/63631d4cfd5d53de4513ac774f0008aa235c6aba/medium.png" height="48" width="48" />
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/_adarshh.raj_/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
